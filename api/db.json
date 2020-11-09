@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Ce bon vieux Conrad",
+      "description": "gros",
+      "id": 1
+    },
+    {
+      "title": "Ce bon vieux Conrad",
+      "description": "le fracass",
+      "userId": "104501359639914154325",
+      "id": 4
+    },
+    {
+      "title": "En TMax",
+      "description": "en mobilette",
+      "userId": "104501359639914154325",
+      "id": 5
+    }
+  ]
+}
